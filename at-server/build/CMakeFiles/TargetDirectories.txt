@@ -1,0 +1,6 @@
+/Users/hayk/Test's/NDM_test/at-server/build/CMakeFiles/atserver_core.dir
+/Users/hayk/Test's/NDM_test/at-server/build/CMakeFiles/at-server.dir
+/Users/hayk/Test's/NDM_test/at-server/build/CMakeFiles/test_pattern.dir
+/Users/hayk/Test's/NDM_test/at-server/build/CMakeFiles/test.dir
+/Users/hayk/Test's/NDM_test/at-server/build/CMakeFiles/edit_cache.dir
+/Users/hayk/Test's/NDM_test/at-server/build/CMakeFiles/rebuild_cache.dir

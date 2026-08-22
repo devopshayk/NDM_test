@@ -1,0 +1,2 @@
+/usr/bin/ar qc libatserver_core.a CMakeFiles/atserver_core.dir/src/pattern.cpp.o CMakeFiles/atserver_core.dir/src/rules.cpp.o CMakeFiles/atserver_core.dir/src/serial.cpp.o CMakeFiles/atserver_core.dir/src/server.cpp.o CMakeFiles/atserver_core.dir/src/text.cpp.o
+/usr/bin/ranlib libatserver_core.a

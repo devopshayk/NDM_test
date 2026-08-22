@@ -1,0 +1,2 @@
+/Users/hayk/Test's/NDM_test/at-server/build/at-server/build/CMakeFiles/edit_cache.dir
+/Users/hayk/Test's/NDM_test/at-server/build/at-server/build/CMakeFiles/rebuild_cache.dir
